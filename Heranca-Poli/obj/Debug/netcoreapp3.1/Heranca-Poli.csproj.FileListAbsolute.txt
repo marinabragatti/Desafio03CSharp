@@ -1,0 +1,11 @@
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\obj\Debug\netcoreapp3.1\Heranca-Poli.csprojAssemblyReference.cache
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\obj\Debug\netcoreapp3.1\Heranca-Poli.AssemblyInfoInputs.cache
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\obj\Debug\netcoreapp3.1\Heranca-Poli.AssemblyInfo.cs
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\bin\Debug\netcoreapp3.1\Heranca-Poli.exe
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\bin\Debug\netcoreapp3.1\Heranca-Poli.deps.json
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\bin\Debug\netcoreapp3.1\Heranca-Poli.runtimeconfig.json
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\bin\Debug\netcoreapp3.1\Heranca-Poli.runtimeconfig.dev.json
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\bin\Debug\netcoreapp3.1\Heranca-Poli.dll
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\bin\Debug\netcoreapp3.1\Heranca-Poli.pdb
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\obj\Debug\netcoreapp3.1\Heranca-Poli.dll
+C:\Users\MABB\source\repos\Heranca-Poli\Heranca-Poli\obj\Debug\netcoreapp3.1\Heranca-Poli.pdb
